@@ -1,5 +1,5 @@
 # My_Certificates
-These are my certificates for any course I took and what I learn from it .
+These are my certificates for any course I took .
 
 ## 1- autocad
 <ul>
